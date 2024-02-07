@@ -57,3 +57,21 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2021|AI/ML in 5G Challenge|Radio Link Failure Prediction|Turkcell
 |2021|AI/ML in 5G Challenge|RF-Sensor Based Human Activity Recognition|The University of Alabama
 |2021|AI/ML in 5G Challenge|WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.|NIST
+|2020|AI/ML in 5G Challenge|5G+AI (Smart Transportation)|JNU
+|2020|AI/ML in 5G Challenge|5G+AI+AR(Zhejiang Division)|China Unicom 
+|2020|AI/ML in 5G Challenge|Analysis on route information failure in IP core networks by NFV-based test environment|KDDI
+|2020|AI/ML in 5G Challenge|Compression of Deep Learning models|ZTE
+|2020|AI/ML in 5G Challenge|Demonstration of MLFO capabilities via reference implementations|Letterkenny Institute of Technology, Co. Donegal 
+|2020|AI/ML in 5G Challenge|DNN Inference Optimization Challenge|ADLIK, ZTE
+|2020|AI/ML in 5G Challenge|Energy-Saving Prediction of Base Station Cells in Mobile Communication Network |China Unicom 
+|2020|AI/ML in 5G Challenge|Fault Localization of Loop Network Devices based on MEC Platform|China Unicom 
+|2020|AI/ML in 5G Challenge|Improving the capacity of IEEE 802.11 WLANs through machine learning|UPF, ITU
+|2020|AI/ML in 5G Challenge|ML5G-PHY -Beam-Selection: Machine Learning Applied to the Physical Layer of Millimeter-Wave MIMO Sytems|UFPA
+|2020|AI/ML in 5G Challenge|ML5G-PHY- Channel Estimation @NCSU: Machine Learning Applied to the Physical Layer of Millimeter-Wave MIMO Systems at North Carolina State University|NC State University
+|2020|AI/ML in 5G Challenge|Network State Estimation by Analyzing Raw Video Data|NEC
+|2020|AI/ML in 5G Challenge|Network topology optimization|China Mobile       
+|2020|AI/ML in 5G Challenge|Out of Service(OOS) Alarm Prediction of 4/5G Network Base Station |China Mobile   
+|2020|AI/ML in 5G Challenge|Privacy Preserving AI/ML in 5G networks for healthcare applications|C-DOT, Delhi
+|2020|AI/ML in 5G Challenge|Radio Link Failure Prediction Challenge|Turkcell
+|2020|AI/ML in 5G Challenge|Shared Experience Using 5G+AI (3D Augmented + Virtual Reality)|Hike
+|2020|AI/ML in 5G Challenge|Traffic recognition and long-term traffic forecasting based on AI algorithms and metadata for 5G/IMT-2020 and beyond|SPbSUT
