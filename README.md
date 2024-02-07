@@ -19,3 +19,6 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2023|GeoAI Challenge|GeoAI Challenge for Air Pollution Susceptibility Mapping|GEOlab at Polytechnic di Milano
 |2023|GeoAI Challenge|GeoAI Challenge for Cropland Mapping|UNODC, FAO
 |2023|GeoAI Challenge|GeoAI Challenge for Landslide Susceptibility Mapping|GEOlab at Polytechnic di Milano
+|2023|tinyML Challenge|Next-Gen tinyML Smart Weather Station|CSEM, tinyML Foundation
+|2023|tinyML Challenge|Scalable and High-Performance TinyML Solutions for Plant Disease Detection|ITU
+|2023|tinyML Challenge|Scalable and High-Performance TinyML Solutions for Wildlife Monitoring|ITU
