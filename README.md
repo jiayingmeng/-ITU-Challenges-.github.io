@@ -14,3 +14,8 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2023|AI/ML in 5G Challenge|Network Traffic Scenario Prediction Challenge|ZTE
 |2023|AI/ML in 5G Challenge|QoS Prediction Challenge|ITU, Fraunhofer HHI
 |2023|AI/ML in 5G Challenge|Title Extraction in Lecture Slides Challenge|ITU
+|2023|GeoAI Challenge|GeoAI Challege Location Mention Recognition from Social Media|QCRI, QU, Qen Labs Inc.
+|2023|GeoAI Challenge|GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images|ESA (European Space Agency)
+|2023|GeoAI Challenge|GeoAI Challenge for Air Pollution Susceptibility Mapping|GEOlab at Polytechnic di Milano
+|2023|GeoAI Challenge|GeoAI Challenge for Cropland Mapping|UNODC, FAO
+|2023|GeoAI Challenge|GeoAI Challenge for Landslide Susceptibility Mapping|GEOlab at Polytechnic di Milano
