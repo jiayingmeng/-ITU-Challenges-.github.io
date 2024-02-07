@@ -22,3 +22,22 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2023|tinyML Challenge|Next-Gen tinyML Smart Weather Station|CSEM, tinyML Foundation
 |2023|tinyML Challenge|Scalable and High-Performance TinyML Solutions for Plant Disease Detection|ITU
 |2023|tinyML Challenge|Scalable and High-Performance TinyML Solutions for Wildlife Monitoring|ITU
+|2022|AI/ML in 5G Challenge|Build your own Closed loop|ITU Focus Group Autonomous Networks (FG-AN)
+|2022|AI/ML in 5G Challenge|Classification of Home Network Users to Improve User Experience|ZTE
+|2022|AI/ML in 5G Challenge|Depth Map Estimation in 6G mmWave systems|NIST
+|2022|AI/ML in 5G Challenge|Federated Traffic Prediction for 5G and Beyond|CTTC (Centre Tecnològic de Telecomunicacions de Catalunya)
+|2022|AI/ML in 5G Challenge|Graph Neural Networking Challenge 2022: Improving Network Digital Twins through Data-centric AI|BNN-UPC
+|2022|AI/ML in 5G Challenge|I/Q-based Beam Classification with the DeepBeam Dataset|Northeastern University
+|2022|AI/ML in 5G Challenge|Location Estimation Using RSSI of Wireless LAN in NLoS Environment|RISING
+|2022|AI/ML in 5G Challenge|Machine Learning for Throughput Prediction in Coordinated IEEE 802.11be Wi-Fi networks|UPF
+|2022|AI/ML in 5G Challenge|Multi Modal Beam Prediction Challenge 2022: Towards Generalization|Arizona State University
+|2022|AI/ML in 5G Challenge|Network failure prediction on CNFs 5GC with Linux eBPF|KDDI
+|2022|AI/ML in 5G Challenge|Next-Gen WiFi Throughput Prediction Challenge|ITU, UPF
+|2022|AI/ML in 5G Challenge|Non-linear Power Amplifier Behavioral Modeling to achieve higher energy efficiency in 5G RAN|ZTE
+|2022|AI/ML in 5G Challenge|Slide Transition Detection and Title Extraction in Lecture Videos|ITU
+|2022|AI/ML in 5G Challenge|??Speech Multi-modal sensing aided beam prediction using real-world measurements from the DeepSense 6G dataset|Arizona State University
+|2022|AI/ML in 5G Challenge|Synthetic Observability Data Generation using GANs|LF Networking
+|2022|GeoAI Challenge|Cropland mapping with satellite imagery|FAO
+|2022|GeoAI Challenge|Location Mention Recognition from Social Media Crisis-related Text|QCRI, QU, Qen Labs Inc.
+|2022|GeoAI Challenge|School mapping with big data|UNICEF
+|2022|tinyML Challenge|Smart Weather Station Challenge|ICTP, ITU, tinyML Foundation
