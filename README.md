@@ -41,3 +41,19 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2022|GeoAI Challenge|Location Mention Recognition from Social Media Crisis-related Text|QCRI, QU, Qen Labs Inc.
 |2022|GeoAI Challenge|School mapping with big data|UNICEF
 |2022|tinyML Challenge|Smart Weather Station Challenge|ICTP, ITU, tinyML Foundation
+|2021|AI/ML in 5G Challenge|Cross Layer user experience optimization – Radio link performance prediction|China Mobile
+|2021|AI/ML in 5G Challenge|Delivery route optimization|ZTE
+|2021|AI/ML in 5G Challenge|Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario|UPF
+|2021|AI/ML in 5G Challenge|Forecasting Model for Service Allocation Network Using Traffic Recognition|SPbSUT
+|2021|AI/ML in 5G Challenge|Graph Neural Networking Challenge 2021: Creating a Scalable Network Digital Twin|BNN-UPC
+|2021|AI/ML in 5G Challenge|Hardware-Efficient Modulation Classification with RadioML|Xilinx
+|2021|AI/ML in 5G Challenge|Location estimation using RSSI of wireless LAN|RISING
+|2021|AI/ML in 5G Challenge|Machine Learning for finding groups of BSSs (Basic Service Set) suitable for Coordinated Spatial Reuse|UPF
+|2021|AI/ML in 5G Challenge|ML5G-PHY-Localization: Multidevice localization with mmWave signals in a factory environment|NC State University
+|2021|AI/ML in 5G Challenge|ML5G-PHY-Reinforcement learning: scheduling and resource allocation|UFPA
+|2021|AI/ML in 5G Challenge|Network anomaly detection based on logs|China Unicom
+|2021|AI/ML in 5G Challenge|Network failure detection and root cause analysis in 5GC by NFV-based test environment|KDDI
+|2021|AI/ML in 5G Challenge|Network resource allocation for emergency management based on closed loop analysis|ITU Focus Group on Autonomous Networks (FG-AN)
+|2021|AI/ML in 5G Challenge|Radio Link Failure Prediction|Turkcell
+|2021|AI/ML in 5G Challenge|RF-Sensor Based Human Activity Recognition|The University of Alabama
+|2021|AI/ML in 5G Challenge|WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.|NIST
