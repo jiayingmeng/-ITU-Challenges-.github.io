@@ -17,7 +17,6 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2023|AI/ML in 5G Challenge|3D Location Estimation Using RSSI of Wireless LAN|Rising
 |2023|AI/ML in 5G Challenge|Build-a-thon 2023|ITU Focus Group on Autonomous Networks (FG-AN)
 |2023|AI/ML in 5G Challenge|Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)|ULAK Comm.
-
 |2022|AI/ML in 5G Challenge|BYOC: Build your own Closed loop|ITU Focus Group Autonomous Networks (FG-AN)
 |2022|AI/ML in 5G Challenge|Classification of Home Network Users to Improve User Experience|ZTE
 |2022|AI/ML in 5G Challenge|Depth Map Estimation in 6G mmWave systems|NIST
@@ -32,8 +31,6 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2022|AI/ML in 5G Challenge|Non-linear Power Amplifier Behavioral Modeling to achieve higher energy efficiency in 5G RAN|ZTE
 |2022|AI/ML in 5G Challenge|Slide Transition Detection and Title Extraction in Lecture Videos|ITU
 |2022|AI/ML in 5G Challenge|Synthetic Observability Data Generation using GANs|LF Networking
-
-
 |2021|AI/ML in 5G Challenge|Combinatiorial Optimization Challenge: Delivery route optimization|ZTE
 |2021|AI/ML in 5G Challenge|Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario|UPF
 |2021|AI/ML in 5G Challenge|Forecasting Model for Service Allocation Network Using Traffic Recognition|SPbSUT
@@ -69,7 +66,6 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2020|AI/ML in 5G Challenge|Graph Neural Networking Challenge|BNN, UPC
 |2020|AI/ML in 5G Challenge|Improving experience and enhancing immersiveness of Video conferencing and collaboration|Dview
 |2020|AI/ML in 5G Challenge|5G+ML/AI (Dynamic Spectrum Access)|IITD
-
 |2023|GeoAI Challenge|GeoAI Challege Location Mention Recognition from Social Media|QCRI, QU, Qen Labs Inc.
 |2023|GeoAI Challenge|GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images|ESA (European Space Agency)
 |2023|GeoAI Challenge|GeoAI Challenge for Air Pollution Susceptibility Mapping|GEOlab at Polytechnic di Milano
