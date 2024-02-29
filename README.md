@@ -16,7 +16,6 @@ Previous challenges that were held by ITU regarding AI and machine learning.
 |2023|AI/ML in 5G Challenge|MultiModal V2V Beam Prediction Challenge 2023|Wireless Intelligence Lab - Arizona State University
 |2023|AI/ML in 5G Challenge|3D Location Estimation Using RSSI of Wireless LAN|Rising
 |2023|AI/ML in 5G Challenge|Build-a-thon 2023|ITU Focus Group on Autonomous Networks (FG-AN)
-|2023|AI/ML in 5G Challenge|Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)|ULAK Comm.
 |2022|AI/ML in 5G Challenge|BYOC: Build your own Closed loop|ITU Focus Group Autonomous Networks (FG-AN)
 |2022|AI/ML in 5G Challenge|Classification of Home Network Users to Improve User Experience|ZTE
 |2022|AI/ML in 5G Challenge|Depth Map Estimation in 6G mmWave systems|NIST
